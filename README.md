@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel**, **CSS**, **PHP**, **HTML**, **Java**
 - 💬 Ask me about **music**
-- 📫 How to reach me: <a href="mailto:contact@hanaemercier.dev">contact@hanaemercier.dev</a>
+- 📫 How to reach me: <a href="mailto:contact@hanaemercier.fr">contact@hanaemercier.fr</a>
 - 😄 Pronouns: **she/her**
 - ⚡ Fun fact: **I'm trans** 🏳️‍⚧️
 
